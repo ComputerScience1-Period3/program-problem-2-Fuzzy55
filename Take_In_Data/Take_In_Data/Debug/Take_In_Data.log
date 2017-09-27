@@ -1,0 +1,4 @@
+﻿  Take_In_Data.cpp
+c:\compsci1\take_in_data\take_in_data\take_in_data.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+  Take_In_Data.vcxproj -> C:\CompSci1\Take_In_Data\Debug\Take_In_Data.exe
+  Take_In_Data.vcxproj -> C:\CompSci1\Take_In_Data\Debug\Take_In_Data.pdb (Partial PDB)
